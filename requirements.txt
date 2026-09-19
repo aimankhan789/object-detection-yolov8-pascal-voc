@@ -1,0 +1,10 @@
+ultralytics
+torch
+torchvision
+opencv-python
+pillow
+matplotlib
+numpy
+gradio
+onnx
+onnxruntime
